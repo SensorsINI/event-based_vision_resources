@@ -1,9 +1,10 @@
 # Event-based Vision Resources
 
-### <a href="https://sites.google.com/view/neurosys2026"> Workshop on Neuromorphic Robotic Systems (NeuRoSys)</a>, July 13th, 2026.
-### <a href="https://eventbasemultimodalvision.github.io"> ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding</a>, Sept. 2026.
-### <a href="https://sites.google.com/view/nevi2026"> ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras</a>, Sept. 2026.
-### <a href="https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275"> IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"</a>, Paper submission until November 30, 2026.
+## Upcoming events and paper calls
+- [Workshop on Neuromorphic Robotic Systems (NeuRoSys)](https://sites.google.com/view/neurosys2026), July 13th, 2026.
+- [ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding](https://eventbasemultimodalvision.github.io), Sept. 2026.
+- [ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras](https://sites.google.com/view/nevi2026), Sept. 2026.
+- [IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"](https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275), paper submission until November 30, 2026.
 
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 ## <a href="https://hylz-2019.github.io/Neuro_Vision_Map/map.html">Map of event-based institutions (from papers)</a>
