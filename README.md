@@ -3432,7 +3432,7 @@ IEEE Conf. Computer Vision and Pattern Recognition Workshops (CVPRW), 2021. [Pro
 
 <a name="drivers"></a>
 ## Drivers
-- [jAER (java Address-Event Representation) project](http://jaerproject.org/). *Real time sensory-motor processing for event-based sensors and systems*. [github page](https://github.com/SensorsINI/jaer). [jAER User Guide](https://docs.google.com/document/d/1fb7VA8tdoxuYqZfrPfT46_wiT1isQZwTHgX8O22dJ0Q/edit?usp=sharing)
+- [jAER (java Address-Event Representation)](https://github.com/SensorsINI/jaer/#readme). *Full-featured cross-platform (Linux, Windows, MacOS) desktop application for neuromorphic event cameras and silicon cochleas from all major manufacturers*. (Now jAER-3 with major refactoring in 2026.)
 - [caer (AER event-based framework, written in C, targeting embedded systems)](https://github.com/inilabs/caer)
 - [libcaer (Minimal C library to access, configure and get/send AER data from sensors or to/from neuromorphic processors)](https://gitlab.com/inivation/dv/libcaer)
 - [evl (Open Source Computer Vision Library for Event-based camera and vision for C++)](https://github.com/EventVisionLibrary/evl)
