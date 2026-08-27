@@ -161,7 +161,6 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
     - [Documentation and tutorials](https://docs.prophesee.ai/)
     - [Knowledge Base](https://support.prophesee.ai/portal/en/kb/prophesee-1) and [Community Forum](https://support.prophesee.ai/portal/en/community/forum)
 - [**SONY's explanation of Event-based Vision Sensor (EVS) Technolgy**](https://www.sony-semicon.com/en/technology/industry/evs.html)
-- [**CelePixel**](http://www.celepixel.com/), Shanghai. CeleX-V: the first 1 Mega-pixel event-camera sensor.
 - **Sensitive DVS (sDVS)**
     - All are prototypes, commerically n.a.
     - Leñero-Bardallo, J. A., Serrano-Gotarredona, T., Linares-Barranco, B., *[A 3.6us Asynchronous Frame-Free Event-Driven Dynamic-Vision-Sensor](https://doi.org/10.1109/JSSC.2011.2118490)*,  IEEE J. of Solid-State Circuits, 46(6):1443-1455, 2011.
@@ -191,7 +190,6 @@ arXiv [cs.CV] (2022) [CSDVS videos](https://sites.google.com/view/csdvs/home)
 - [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) is the inventor and supplier of 4 Event-Based sensors generations, including commercial-grade versions as well as industry’s largest software suite. The company focuses on Industrial, Mobile-IoT and Automotive applications.
 - [Insightness AG](http://www.insightness.com/) built visual systems to give mobile devices spatial awareness. [The Silicon Eye](http://www.insightness.com/?p=361) Technology. Aquired by Sony in 2019 and part of Sony Advanced Imager Sensors division.
 - [SLAMcore](https://www.slamcore.com/) develops Localisation and mapping solutions for AR/VR, robotics & autonomous vehicles.
-- [CelePixel](https://www.celepixel.com) (formerly Hillhouse Technology) offer integrated sensory platforms that incorporate various components and technologies, including a processing chipset and an image sensor (a dynamic vision sensor called CeleX).
 - [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) sells neuromorphic sensor products.
     - [Inspection during production of carton packs](https://www.youtube.com/watch?v=8PZmb2z2bXw&index=39&list=PL659671AC92E70F19)
     - [UCOS Universal Counting Sensor](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_People-Counting-Sensor_en.pdf)
