@@ -124,10 +124,8 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
 # Devices & Companies Manufacturing them
 - **DVS (Dynamic Vision Sensor)**: Lichtsteiner, P., Posch, C., and Delbruck, T., *[A 128x128 120dB 15μs latency asynchronous temporal contrast vision sensor](http://doi.org/10.1109/JSSC.2007.914337)*, IEEE J. Solid-State Circuits, 43(2):566-576, 2008. [PDF](https://www.ini.uzh.ch/~tobi/wiki/lib/exe/fetch.php?media=lichtsteiner_dvs_jssc08.pdf)
     - [Product page at iniVation](https://inivation.com/dvs/). [**Buy a DVS**](https://inivation.com/buy/)
-    - [Product specifications](https://inivation.com/support/product-specifications/)    
-    - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DVS128.html)
-    - [Introductory videos about the DVS technology](https://inivation.com/dvs/videos/)
-    - [iniVation AG](https://inivation.com/) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
+    - [User guide](https://docs.inivation.com/_static/hardware_guides/dvs128.pdf) (discontinued; [other discontinued products](https://docs.inivation.com/hardware/discontinued-products/index.html))
+    - [iniVation AG](https://inivation.com/), merged into [Synsense](https://www.synsense.ai/), produces and sells the hyrbrid HVS DAVIS and pure DVS DVXplorer event cameras. [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](https://inivation.com/company/), board member of iniVation.
     - [Event Cameras - Tutorial - Tobi Delbruck, version 4](https://youtu.be/Th4TM4SsFGY)
 - **Samsung's DVS**
     - [Slides](http://rpg.ifi.uzh.ch/docs/CVPR19workshop/CVPRW19_Eric_Ryu_Samsung.pdf) and [Video](https://youtu.be/7fAPckjQSGE) by [Hyunsurk Eric Ryu](https://www.linkedin.com/in/hyunsurk-eric-ryu-82745712), Samsung Electronics  (2019).
@@ -140,8 +138,7 @@ IEEE Trans. Pattern Anal. Machine Intell. (TPAMI), 44(1):154-180, Jan. 2022.
       *A QVGA 143 dB Dynamic Range Frame-Free PWM Image Sensor With Lossless Pixel-Level Video Compression and Time-Domain CDS*.
     - **DAVIS (Dynamic and Active Pixel Vision Sensor)**: Brandli, C., Berner, R., Yang, M., Liu, S.-C., Delbruck, T., *[A 240x180 130 dB 3 µs Latency Global Shutter Spatiotemporal Vision Sensor](https://doi.org/10.1109/JSSC.2014.2342715)*, IEEE J. Solid-State Circuits, 49(10):2333-2341, 2014. [PDF](https://drive.google.com/file/d/0BzvXOhBHjRhea3RrelA1V0RKVWM/view)
         - [Product page at iniVation](https://inivation.com/dvs/).  [**Buy a DAVIS**](https://inivation.com/buy/)
-        - [Product specifications](https://inivation.com/support/product-specifications/)
-        - [User guide](https://inivation.github.io/inivation-docs/Hardware%20user%20guides/User_guide_-_DAVIS240.html)
+        - [User guide](https://docs.inivation.com/_static/hardware_guides/davis240.pdf) (discontinued; [current DAVIS346 specs](https://docs.inivation.com/hardware/current-products/davis346.html))
     - **DAVIS346**: Taverni, G; Paul Moeys, D; Li, C; Cavaco, C; Motsnyi, V; San Segundo Bello, D; Delbruck, T., *[Front and Back Illuminated Dynamic and Active Pixel Vision Sensors Comparison](http://dx.doi.org/10.1109/TCSII.2018.2824899)*, IEEE Trans. Circuits Syst. Express Briefs, 2018
     - **CDAVIS HVS**: Li, C., Brandli, C., Berner, R., Liu, H., Yang, M., Liu, S.-C., Delbruck, T., *[An RGBW color VGA rolling and global shutter dynamic and active-pixel vision sensor](https://www.imagesensors.org/Past%20Workshops/2015%20Workshop/2015%20Papers/Sessions/Session_13/13-05_Li_Delbruck.pdf)*, Int. Image Sensors Worskhop, 2015.
         - Prototype only 
@@ -183,14 +180,14 @@ arXiv [cs.CV] (2022) [CSDVS videos](https://sites.google.com/view/csdvs/home)
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
-- [iniVation AG](https://inivation.com/) invents, produces and sells neuromorphic vision sensors (DAVIS, DVExplorer, and others), with a focus on event-based vision for business; supplies the advanced [DV event camera software](https://docs.inivation.com/software/introduction.html).
+- [iniVation AG](https://inivation.com/), now merged with [Synsense](https://www.synsense.ai), produces and sells neuromorphic vision sensors (DAVIS, DVExplorer, and others); supplies the advanced [DV event camera software](https://docs.inivation.com/software/introduction.html).
 - [iniLabs AG](https://inilabs.com/) invents neuromorphic technologies for *research*.
 - [Samsung](http://www.samsung.com) develops Gen2 and Gen3 dynamic vision sensors and event-based vision solutions.
     - [IBM Research](http://www.research.ibm.com/articles/brain-chip.shtml) ([Synapse project](http://www.research.ibm.com/cognitive-computing/brainpower/)) and Samsung partenered to combine the [TrueNorth chip (brain) with a DVS (eye)](https://www.cnet.com/news/samsung-turns-ibms-brain-like-chip-into-a-digital-eye/).
 - [Prophesee](http://www.prophesee.ai) (Formerly [Chronocam](http://www.chronocam.com/)) is the inventor and supplier of 4 Event-Based sensors generations, including commercial-grade versions as well as industry’s largest software suite. The company focuses on Industrial, Mobile-IoT and Automotive applications.
 - [Insightness AG](http://www.insightness.com/) built visual systems to give mobile devices spatial awareness. [The Silicon Eye](http://www.insightness.com/?p=361) Technology. Aquired by Sony in 2019 and part of Sony Advanced Imager Sensors division.
 - [SLAMcore](https://www.slamcore.com/) develops Localisation and mapping solutions for AR/VR, robotics & autonomous vehicles.
-- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) sells neuromorphic sensor products.
+- [AIT Austrian Institute of Technology](https://www.ait.ac.at/en/research-fields/new-sensor-technologies/optical-sensor-systems-for-industrial-processes/) formerly sold neuromorphic sensor products.
     - [Inspection during production of carton packs](https://www.youtube.com/watch?v=8PZmb2z2bXw&index=39&list=PL659671AC92E70F19)
     - [UCOS Universal Counting Sensor](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_People-Counting-Sensor_en.pdf)
     - [IVS Industrial Vision Sensor](https://www.ait.ac.at/fileadmin/mc/digital_safety_security/downloads/Factsheet_-_Industrial-Vision-Sensor_en.pdf)
