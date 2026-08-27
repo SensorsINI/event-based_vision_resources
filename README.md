@@ -1,15 +1,15 @@
 # Event-based Vision Resources
 
-## <a href="https://sites.google.com/view/neurosys2026"> Workshop on Neuromorphic Robotic Systems (NeuRoSys)</a>, July 13th, 2026.
-## <a href="https://eventbasemultimodalvision.github.io"> ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding</a>, Sept. 2026.
-## <a href="https://sites.google.com/view/nevi2026"> ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras</a>, Sept. 2026.
-## <a href="https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275"> IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"</a>, Paper submission until November 30, 2026.
-## <a href="https://nfr-icra2026.com"> NFRA: Challenges and Opportunities of Neuromorphic Field Robotics and Automation at ICRA 2026</a>, June 5, Vienna. Paper submission until March 23, 2026.
-## <a href="https://urvis-workshop.github.io">URVIS: Unified Robotic Vision with Cross-Modal Sensing and Alignment at CVPR 2026</a>. Paper submission until March 15, 2026.
-## <a href="https://onsensor-vision.github.io">OVS: On Sensor Vision (OSV) Workshop at CVPR 2026</a>. Paper submission until March 13, 2026.
-## <a href="https://ieee-cas.org/files/ieeecass/2025-08/JETCAS_CFP_2026Q3.pdf"> Neuromorphic Computing and Sensing Meets Extended Reality — IEEE JETCAS Special Issue "Circuits and Systems for Extended Reality" Call for Papers. </a> Paper submission until March 2nd 2026.
-## <a href="https://edpr.iit.it/events/2026-evs"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy).
-## <a href="https://eventbasedvision.github.io/EVGEN2026/"> WACV 2026 EVGEN: Event-based Vision in the Era of Generative AI.</a> March 6, 2026, Tucson (USA).
+### <a href="https://sites.google.com/view/neurosys2026"> Workshop on Neuromorphic Robotic Systems (NeuRoSys)</a>, July 13th, 2026.
+### <a href="https://eventbasemultimodalvision.github.io"> ECCV 2026 Workshop on Event-Based Multimodal Vision (EBMV): Imaging, Perception, and Understanding</a>, Sept. 2026.
+### <a href="https://sites.google.com/view/nevi2026"> ECCV 2026 Workshop on Neuromorphic Vision (NeVi): Advantages and Applications of Event Cameras</a>, Sept. 2026.
+### <a href="https://ietresearch.onlinelibrary.wiley.com/hub/journal/17519667/homepage/call-for-papers/si-2026-000275"> IET Image Processing Special Issue on "Event-Based Cameras and Image Processing: Applications, Benchmarks, and Future Directions"</a>, Paper submission until November 30, 2026.
+### <a href="https://nfr-icra2026.com"> NFRA: Challenges and Opportunities of Neuromorphic Field Robotics and Automation at ICRA 2026</a>, June 5, Vienna. Paper submission until March 23, 2026.
+### <a href="https://urvis-workshop.github.io">URVIS: Unified Robotic Vision with Cross-Modal Sensing and Alignment at CVPR 2026</a>. Paper submission until March 15, 2026.
+### <a href="https://onsensor-vision.github.io">OVS: On Sensor Vision (OSV) Workshop at CVPR 2026</a>. Paper submission until March 13, 2026.
+### <a href="https://ieee-cas.org/files/ieeecass/2025-08/JETCAS_CFP_2026Q3.pdf"> Neuromorphic Computing and Sensing Meets Extended Reality — IEEE JETCAS Special Issue "Circuits and Systems for Extended Reality" Call for Papers. </a> Paper submission until March 2nd 2026.
+### <a href="https://edpr.iit.it/events/2026-evs"> EVS: Event Vision School 2026.</a> May 17-23th, Arenzano (Italy).
+### <a href="https://eventbasedvision.github.io/EVGEN2026/"> WACV 2026 EVGEN: Event-based Vision in the Era of Generative AI.</a> March 6, 2026, Tucson (USA).
 
 ## <a href="https://www.neuropac.info/">NeuroPAC</a>
 ## <a href="https://hylz-2019.github.io/Neuro_Vision_Map/map.html">Map of event-based institutions (from papers)</a>
