@@ -3362,19 +3362,24 @@ IEEE Conf. Computer Vision and Pattern Recognition (CVPR), 2024. [Project page a
 
 <a name="drivers"></a>
 ## Drivers
-- [jAER (java Address-Event Representation)](https://github.com/SensorsINI/jaer/#readme). *Full-featured cross-platform (Linux, Windows, MacOS) desktop application for neuromorphic event cameras and silicon cochleas from all major manufacturers*. (Now jAER-3 with major refactoring in 2026.)
-- [caer (AER event-based framework, written in C, targeting embedded systems)](https://github.com/inilabs/caer)
-- [libcaer (Minimal C library to access, configure and get/send AER data from sensors or to/from neuromorphic processors)](https://gitlab.com/inivation/dv/libcaer)
+- [jAER (java Address-Event Representation)](https://github.com/SensorsINI/jaer/#readme). *Cross-platform (Linux, Windows, MacOS) desktop application for neuromorphic event cameras and silicon cochleas from major manufacturers. (Now jAER-3 with major refactoring in 2026.)*
+- [neuromorphic-drivers](https://github.com/neuromorphicsystems/neuromorphic-drivers#direct-memory-access). *Python and fast Rust USB interfacing for real time event camera use*.
+- [dv-processing](https://gitlab.com/inivation/dv/dv-processing). *C++ and Python library for iniVation event cameras; current replacement for libcaer*. [Docs](https://dv-processing.inivation.com/master/index.html).
+- [dv-runtime](https://gitlab.com/inivation/dv/dv-runtime). *C++ event-based processing framework for neuromorphic cameras; successor to cAER*.
+- [cAER](https://gitlab.com/inivation/caer) (historical). *Former C framework for neuromorphic devices targeting embedded systems*. The old `inilabs/caer` GitHub URL is gone; last cAER release is on GitLab. Use dv-runtime instead.
+- [libcaer](https://gitlab.com/inivation/dv/libcaer) (deprecated, archived). *Minimal C library to access neuromorphic sensors*. iniVation recommends [dv-processing](https://gitlab.com/inivation/dv/dv-processing), but libcaer can still be useful for embedded Linux cameras.
 - [evl (Open Source Computer Vision Library for Event-based camera and vision for C++)](https://github.com/EventVisionLibrary/evl)
 - [ROS (Robotic Operating System)](https://github.com/uzh-rpg/rpg_dvs_ros)
 - [YARP (Yet Another Robot Platform)](https://github.com/robotology/event-driven)
 - [Prophesee ROS Wrapper](https://github.com/prophesee-ai/prophesee_ros_wrapper) ROS driver and messages for Prophesee event-based sensors
 - [Prophesee camera plugins](https://docs.prophesee.ai/stable/installation/camera_plugins.html)
-- [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) A ROS driver and some other tools for [CeleX5_MP](http://www.celepixel.com/#/Samples) event-based sensor (which has a high resolution at 1280×800)
+- [OpenEB](https://github.com/prophesee-ai/openeb). *Prophesee's own open-source SDK, not a third-party MetaVision alternative.* It is the open modules of Metavision SDK (Base, Core, Core ML, Stream, UI, HAL) plus the Prophesee camera plugin. Use it to stream from Prophesee cameras and build plugins without the commercial Metavision SDK / SDK 5 PRO. [Docs](https://docs.prophesee.ai/stable/installation/linux_openeb.html). Also listed under [Software / Algorithms](#software-algorithms).
+- [CeleX5 ROS Wrapper](https://github.com/kehanXue/CeleX5-ROS) (historical). ROS tools for the CeleX5-MP 1280×800 sensor. CelePixel cameras are no longer sold; [celepixel.com](http://www.celepixel.com) is gone. CelePixel was acquired by Will Semiconductor / OmniVision. Remaining code: [CelePixel on GitHub](https://github.com/CelePixel).
 - [PyAER](https://github.com/duguyue100/pyaer) A lightweight python wrapper of libcaer; used for e.g. [Dextra](https://github.com/SensorsINI/dextra-roshambo-python) and [Trixsy](https://github.com/SensorsINI/joker-network) robots and [PDAVIS e2p demo](https://github.com/SensorsINI/e2p).
 
 <a name="synchronization"></a>
 ## Synchronization
+- [jAER](https://jaerproject.org) records from multiple devices using host timestamp reset. For devices that offer electrical synchronization (e.g. see [inivation sychronization notes](https://docs.inivation.com/hardware/hardware-advanced-usage/external-camera-sync.html)), the multi-stream AEDAT-4 recording will remain synchronized over long recordings. jAER records external input events that mark e.g. frame-camera sync signals from the event camera sync input pin.
 - [Sync Toolbox](https://github.com/sjtuyuxuan/sync_toolbox). This open-source toolbox provides a QT-based GUI to allow easy access for hardware-level multi-sensor synchronization (Prophesee Gen 3.1 included and tested). After proper configuration of the software, users can seamlessly record new ROS bags.
 - <a name="Li23icira"></a>Li, W.X., Dong, Y., Qiu, S.Q., Han, B.,  
 *[Hardware-Free Event Cameras Temporal Synchronization Based on Event Density Alignment](https://link.springer.com/chapter/10.1007/978-981-99-6498-7_6)*,  
